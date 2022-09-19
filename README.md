@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Rudhran-M
-- 👀 I’m interested to work for an MNC
-- 🌱 I’m currently learning skills
-
+- 👀 I'm pursuing under graduate with a Bachelor's Degree in Electronics and communication. I'm seeking a full-time opportunity where I can employ my technical and soft skills
 - 📫 contact:8610151621
 
 <!---
